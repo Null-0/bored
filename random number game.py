@@ -8,4 +8,4 @@ userint = int(user)
 if num == userint:
     print ("Great job! my number was ", num)
 else:
-    print ("incorrect my number was: ", num)
+    print ("Incorrect my number was: ", num)
